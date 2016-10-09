@@ -1,2 +1,2 @@
 # hello-world
-first repository for start-up Github
+Hi everyone!!! This is a start-up to GitHub for me. :)
